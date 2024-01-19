@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fuydutdtu/Ps99-Script/main/PS99%20Premium%20Hub", true))()
